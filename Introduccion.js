@@ -53,4 +53,9 @@ Directorio de trabajo          Área de preparación          Repositorio local 
 2. Hay 2 formas para hacer commit:
 - git commit: habre tu vs code y tienes que poner en la primera linea el comentario
 -git commit -m "Mensaje descriptivo del cambio"
+3. GITHUB/ REMOTE:
+1. primero crea un directorio en git y si ya lo tienes creado pon esto 
+git remote add origin https://github.com/SlCristian/youtube-git.git
+2. ahorita solo tenemos la rama master(despues se hablara de eso) pones esto 
+3. recarga y ya me sale el cambio 
 */
