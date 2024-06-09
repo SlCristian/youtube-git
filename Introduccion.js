@@ -56,6 +56,45 @@ Directorio de trabajo          Área de preparación          Repositorio local 
 3. GITHUB/ REMOTE:
 1. primero crea un directorio en git y si ya lo tienes creado pon esto 
 git remote add origin https://github.com/SlCristian/youtube-git.git
-2. ahorita solo tenemos la rama master(despues se hablara de eso) pones esto 
+2. ahorita solo tenemos la rama master(despues se hablara de eso) pones esto git push -u origin master
 3. recarga y ya me sale el cambio 
+(DATO: Si haces mas cambios pss lo haces lo mismo a diferencia del push que como ya esta conectado a GITHUB al repositorio y al origin/master(rama) solo pones git push y ya se guarda los cambios)
+
+4. el utlimo que seria para descargar los cambios del repositorio con
+pull: git pull
+/*(DATO: SI QUIERES DESCARGAR DE UN AMIGO DE SU REPOSITORIO SOLO PONES EL git clone y nombre de la carpeta que quieres que se llame, ya que crea una carpeta por ti, eso es opcional ya que si no tendra el nombre por defecto de la descarga
+git clone https://github.com/usuario/repo.git nuevo-nombre
+
+
+) */
+
+
+/*PASAR DE LA RAMA MASTER A LA MAIN: Es como un estandar que se da por un movimiento encontra del racismo, esto no afecta en nada, ya que por defecto tenemos la rama master pero esto se hace de cambiar de la rama master a la main como principal  
+1. PARA REPOSITIORIOS NUEVOS: ahi en su pagina web esta donde crea la rama main (git branch -M main) y ya luego el remote y el git push -u origin main(ya no al master)
+2. Para repositorios existentes: o sea que ya han sido pero todavia conectados con el remote:
+ Para reemplazar la rama master por main en GitHub: O sea si ya lo conectaste con el remote y quieres cambiar de rama de master a main
+//
+3. EN CASO EXISTA EL REPOSITORIO PERO YA LO CONECTASTE CON GITHUB Y QUIERES PASAR DE MASTER A MAIN:
+# Paso 1
+# Crea la rama local main y pásale el historial de la rama master
+git branch -m master main
+
+
+# Paso 2
+# Haz un push de la nueva rama local main en el repositorio remoto de GitHub
+git push -u origin main
+
+
+# Paso 3
+# Cambia el HEAD actual a la rama main
+git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+Pas 4: en el git poner por defecto master
+# Paso 5
+# Elimina la rama master del repositorio remoto
+git push origin --delete master
+//
 */
+
+//(PARA ELIMINAR UN DIRECTORIO DE GIT: SIMPLEMENTEMENTE VE A setting y ahi en danger zone ahi esta)
+/*IGNORAR ARCHIVOS:
+ */
