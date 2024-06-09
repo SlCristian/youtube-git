@@ -77,8 +77,8 @@ git clone https://github.com/usuario/repo.git nuevo-nombre
 3. EN CASO EXISTA EL REPOSITORIO PERO YA LO CONECTASTE CON GITHUB Y QUIERES PASAR DE MASTER A MAIN:
 # Paso 1
 # Crea la rama local main y pásale el historial de la rama master
-git branch -m master main
-
+git branch -m master main (el -m es de mover/renombrar)
+(y el de git commit -m(es de mensaje))
 
 # Paso 2
 # Haz un push de la nueva rama local main en el repositorio remoto de GitHub
@@ -96,5 +96,16 @@ git push origin --delete master
 */
 
 //(PARA ELIMINAR UN DIRECTORIO DE GIT: SIMPLEMENTEMENTE VE A setting y ahi en danger zone ahi esta)
-/*IGNORAR ARCHIVOS:
+
+
+/*IGNORAR ARCHIVOS: con el archivo .gitingnore y ya owo
  */
+
+/*RAMAS: Una rama nos permite aislar una nueva funcionalidad en nuestro codigo que despues podremos añadir a la version principal
+1.  git branch: Ver todas las ramas disponibles
+2. git branch nombre-rama: Crear una rama
+3. git checkout nombre-rama: Cambiar de rama
+4 git checkout -b rama: Crear y cambiarte a esa rama que estas creando
+5. git  branch -d nombre-rama: Eliminar una rama
+
+*/
