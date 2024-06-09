@@ -46,6 +46,11 @@ Directorio de trabajo          Área de preparación          Repositorio local 
      Cambios en                git add (preparar)              git commit                  git push
      archivos                                                      (confirmar)               (enviar)
 
+1. Para añadir los cambios al staged
+- 1 por 1: git add archivo/directorio
+- todos de una: git add .
 
-
+2. Hay 2 formas para hacer commit:
+- git commit: habre tu vs code y tienes que poner en la primera linea el comentario
+-git commit -m "Mensaje descriptivo del cambio"
 */
