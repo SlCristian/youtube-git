@@ -106,7 +106,17 @@ git push origin --delete master
 2. git branch nombre-rama: Crear una rama
 3. git checkout nombre-rama: Cambiar de rama
 4 git checkout -b rama: Crear y cambiarte a esa rama que estas creando
-5. git  branch -d nombre-rama: Eliminar una rama
+5. git  branch -d nombre-rama: Eliminar una rama y si quieres fornzarla es con -D mayuscula
 (DATO: Esa rama tienes que ejecutarlo en el remoto o sea porque solo existe de manera local) ESTO: $ git push -u origin html
+6: git push origin --delete nombre-rama: PARA ELIMAR RAMAS REMOTAS(o sea que ya fueron incluidas en git)
 
+
+
+
+AWAWA: SI TE PREGUNTAS PORQUE LA RAMA html y css tieneen el index.html ya que solo deberia tener el html, bueno es porque cuando tu creaste la rama css lo hiciste desde la rama html, en la foto se ve, y pss copia todo lo que ya teniael html y por eso, por eso cuidado con eso
+
+
+
+
+//SI PIENSAS QUE LAS RAMAS SON SOLO PARA CREAR SUBDIVISIONES DE TRABAJO PSS TAMBIEN LUEGO DE REALIZAR PUEDES FUCIONAR LAS RAMAS, Y DIVIDIR TRABAJO OWO
 */
