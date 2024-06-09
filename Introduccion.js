@@ -107,5 +107,6 @@ git push origin --delete master
 3. git checkout nombre-rama: Cambiar de rama
 4 git checkout -b rama: Crear y cambiarte a esa rama que estas creando
 5. git  branch -d nombre-rama: Eliminar una rama
+(DATO: Esa rama tienes que ejecutarlo en el remoto o sea porque solo existe de manera local) ESTO: $ git push -u origin html
 
 */

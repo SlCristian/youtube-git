@@ -1,0 +1,10 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+
+}
+div{
+  border-radius: 45%; 
+  background-color: rgba(rgb(207, 56, 56), green, blue, alpha); 
+}
