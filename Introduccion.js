@@ -130,6 +130,8 @@ unir dos ramas. pARA HACER UNA FUSIONES NECESITAMOS
 2. ejecutamos el comando merge con la rama secundaria a fusionar:
 Con merge git merge rama-secundaria
 (LUEGO DE LAS FUSIONES SI QUIERES PUEDES ELIMINAR LAS OTRAS RAMAS con git branch -d name y si quieres eliminar las ramas del repositorio o sea las remotas git push origin --delete name)
+----MANUAL MERGE--------------------------------------------
+La fusion hay que hacerla manual, para resolver conflictos de duplicacion de contenido(ahorita estamos haciendo esto, ya que a la rama main le agregamos contenido html de index.html diferente al de la rama html)
 
 
 */
