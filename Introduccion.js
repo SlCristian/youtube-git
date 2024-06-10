@@ -139,7 +139,13 @@ La fusion hay que hacerla manual, para resolver conflictos de duplicacion de con
 /*DATO IMPORTANTE DEL PORQUE TODAS LAS RAMAS QUE CREAS NO ES NECESARIO PONERLE EN REPOSITORIO YA QUE TALVEZ EL EQUIPO NO NECESITA ESA RAMAS  
 1. OTRO DATO QUE ES APARTE: EN SU EL PUSH SE USA PARA MANDAR AL REMOTO PERO SI QUIERES GUARDAR CAMBIO DE MANERA INTERNA CON EL cmmit basta
 
-
+(PARA SALIR DE CUALQUIERA Y QUE NO TE SIGA MOSTRANDO COMO POR EJEMPLO LUEGO DE HACER EL git log, mas commmits, simplemente pulsa la letra "q")
 */
 
-/*dssdad */
+/*CAMBIOS: Por si eres weon y te olvidas de algo y ya le hiciste commit pero no quieres hacerle otra vez commit si no editarlo
+(RECUERDA CTMR PUEDES USAR ESTOS COMMIT SIEMPRE Y CUANDO NO HALLAS HECHO PUSH PORQUE SI NO YA NO SE PUEDE Y TENDRAS PROBLEMAS DE CAMBIO)
+
+1. git log: es para ver el historial de todos los commits o git log --oneline
+2. git commit --amend --no-edit: sin editar el mensaje del último commit
+(cuando hay relaciones de conflictos o sea un merge o algo asi en medio, solo te dejara crear un nuevo commit y no actualizarlo , esto sucede porque ese commit ya se le hizo push, mas que todo estos commandos del amend sirva para commit antes de hacerle push CTMR)
+*/
