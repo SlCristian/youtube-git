@@ -124,4 +124,7 @@ AWAWA: SI TE PREGUNTAS PORQUE LA RAMA html y css tieneen el index.html ya que so
 /*FUSIONES: unir dos ramas. pARA HACER UNA FUSIONES NECESITAMOS
 1. Situarnos en la rama que se quedara con el contenido fusionado
 2. Fusionar
+1. vas a la rama principal: git checkout rama-principal
+2. ejecutamos el comando merge con la rama secundaria a fusionar:
+Con merge git merge rama-secundaria
 */
