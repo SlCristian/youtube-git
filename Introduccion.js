@@ -120,3 +120,8 @@ AWAWA: SI TE PREGUNTAS PORQUE LA RAMA html y css tieneen el index.html ya que so
 
 //SI PIENSAS QUE LAS RAMAS SON SOLO PARA CREAR SUBDIVISIONES DE TRABAJO PSS TAMBIEN LUEGO DE REALIZAR PUEDES FUCIONAR LAS RAMAS, Y DIVIDIR TRABAJO OWO
 */
+
+/*FUSIONES: unir dos ramas. pARA HACER UNA FUSIONES NECESITAMOS
+1. Situarnos en la rama que se quedara con el contenido fusionado
+2. Fusionar
+*/
