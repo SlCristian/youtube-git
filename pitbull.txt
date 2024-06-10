@@ -1,0 +1,121 @@
+commit 3e27e04b41b6aec1f7e0d33e35c3b10e909e5c94
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 21:16:22 2024 -0500
+
+    awawa
+
+commit 6547d3f0548de40397d7309da41ccbaaec53cd53
+Merge: 6f80b82 c68a814
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 21:11:58 2024 -0500
+
+    si
+
+commit 6f80b82de93b145378fba7da8af84d9a353444fe
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 20:07:55 2024 -0500
+
+    Nuevo curso de gatos
+
+commit c68a814b3f12000644002919353796be6e9dbb6a
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 20:07:55 2024 -0500
+
+    estaciones
+
+commit 2902cca054488101a93c9d98ee85c9cb11ae2a08
+Merge: 67a1946 4145fac
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:52:44 2024 -0500
+
+    ctmr
+
+commit 4145facbadd79c8e5cdc153f99178482d3cfb012
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:41:32 2024 -0500
+
+    ctmr
+
+commit 67a194678ab49a8e88cc4c7f1068f9297775ac13
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:37:25 2024 -0500
+
+    ctmr
+
+commit 9432ed94d399964df8cc013f715119cf6d3bf4e1
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:36:33 2024 -0500
+
+    ctmr
+
+commit 7d766977fb20039a7a3b3dd746b99d86d9d97916
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:21:11 2024 -0500
+
+    ctmr
+
+commit a84c44eacfc15921b71ff8e1c40fa6fd26139795
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:14:12 2024 -0500
+
+    ctmr
+
+commit abbfb8d4b7125427630eb9c14176f4f5adf1f5e2
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 19:09:03 2024 -0500
+
+    misad
+
+commit 1aea7606609482a5b4545b040963703d1d2e9758
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 13:41:18 2024 -0500
+
+    dsad
+
+commit 3e906afc048de9e79c766e2d3c67787218a3c4e4
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 13:26:55 2024 -0500
+
+    Creando style.css
+
+commit f20c2e95bb6027a62a189d767763e971fd2a4004
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 13:17:33 2024 -0500
+
+    Creando archivo index.html
+
+commit 28e0e46670f98fa332762ab3dc3ea6efd286c8df
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sun Jun 9 12:17:17 2024 -0500
+
+    Ignorando archivos .exe
+
+commit bbe354b3c688e655cde29aef2ebd57172e4ada6c
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sat Jun 8 20:53:11 2024 -0500
+
+    AÑADIENDO UNA LICENSIA
+
+commit ef74cf9d62a1c887e860e2a553f033b56c7f6152
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sat Jun 8 20:33:27 2024 -0500
+
+    CAMBIO IMPORTANTE
+
+commit fde30542cb7c180adae151312ae7b549307404bb
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sat Jun 8 20:04:20 2024 -0500
+
+    Cambio con el git commit
+
+commit 182141597cdbd1dd2dec70bd6a72b299a5953df6
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sat Jun 8 20:03:56 2024 -0500
+
+    Cambio del markdown
+
+commit e89bf8203f2a8c4244bd1f7d53291cfa8ff6ab81
+Author: SlCristian <cristianronaldosalazarlopez@gmail.com>
+Date:   Sat Jun 8 19:59:54 2024 -0500
+
+    Primer commit ♠owq

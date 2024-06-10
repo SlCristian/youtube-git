@@ -153,3 +153,24 @@ La fusion hay que hacerla manual, para resolver conflictos de duplicacion de con
 /*Cambiar de rama: git checkout nombre-rama 
 Cambiar a un commit en particular: git checkout id-commit
 */
+
+/* REGISTRO DEL HISTORIAL
+1. git log > commits.txt: Guardar el log en la ruta y archivo que especifiquemos, a menudo se le guarda en un txt owo mira ese archivo txt que dice pachis
+2. git log --prety=format:"%h - %an, %ar : %s": muestra el historial con el formato que indicamos
+
+*/
+
+
+/*RESEO DEL HISTORIAL: Podemos eliminar el historial de cambios del proyecto hacia adelante con respecto de un punto de referencia.
+1. git status: Es fundamental en git para proporcionar una vision clara del estado de tu repositorio de trabajo. Cuando ejecutas git status obtienes informacion sobre las siguientes areas claves:
+- Estado del área de preparación (staging area): Te muestra qué archivos están listos para ser confirmados (committed). Estos son los archivos que has añadido al área de preparación usando git add.
+- Archivos modificados pero no preparados: Te informa sobre los archivos que han sido modificados en tu directorio de trabajo pero que aún no se han añadido al área de preparación.
+-Archivos sin seguimiento (untracked files): Te muestra los archivos que no están bajo control de versión, es decir, archivos nuevos que Git aún no está rastreando. (o sea con el git add)
+-Información sobre la rama actual: Indica en qué rama estás trabajando y si tu rama local está adelantada o atrasada en comparación con su contraparte remota (si la rama tiene un seguimiento remoto configurado).
+
+-Cambios a ser confirmados: Enumera los archivos que se encuentran en el área de preparación y están listos para ser confirmados.
+
+2. git reset -soft: Borra lo que hay en el HEAD, recuerda el flujo basico ctmr, cuando ya esta en el HEAD/Local ahi recien puedes hacerle cambio a eso en caso no porque no estaria en la cabecezera,
+ademas luego de borrar luego de hacer el commit, todo eso del commit se mantendra en el area de preparacion (staged changes)
+3. git reset -mixed: borra el head y staging o sea despues de hacerle commit,borra ese commit y todo no lo manda al area de preparacion si no antes del staged changes(antes de hacer git add .) owo y pasa al working creo que se llama
+ */

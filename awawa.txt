@@ -1,0 +1,24 @@
+* 3e27e04 awawa
+*   6547d3f si
+|\  
+| * c68a814 estaciones
+* | 6f80b82 Nuevo curso de gatos
+|/  
+*   2902cca ctmr
+|\  
+| * 4145fac ctmr
+* | 67a1946 ctmr
+* | 9432ed9 ctmr
+|/  
+* 7d76697 ctmr
+* a84c44e ctmr
+* abbfb8d misad
+* 1aea760 dsad
+* 3e906af Creando style.css
+* f20c2e9 Creando archivo index.html
+* 28e0e46 Ignorando archivos .exe
+* bbe354b AÑADIENDO UNA LICENSIA
+* ef74cf9 CAMBIO IMPORTANTE
+* fde3054 Cambio con el git commit
+* 1821415 Cambio del markdown
+* e89bf82 Primer commit ♠owq
