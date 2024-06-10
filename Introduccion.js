@@ -127,4 +127,5 @@ AWAWA: SI TE PREGUNTAS PORQUE LA RAMA html y css tieneen el index.html ya que so
 1. vas a la rama principal: git checkout rama-principal
 2. ejecutamos el comando merge con la rama secundaria a fusionar:
 Con merge git merge rama-secundaria
+(LUEGO DE LAS FUSIONES SI QUIERES PUEDES ELIMINAR LAS OTRAS RAMAS)
 */
