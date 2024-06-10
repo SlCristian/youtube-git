@@ -139,7 +139,9 @@ La fusion hay que hacerla manual, para resolver conflictos de duplicacion de con
 /*DATO IMPORTANTE DEL PORQUE TODAS LAS RAMAS QUE CREAS NO ES NECESARIO PONERLE EN REPOSITORIO YA QUE TALVEZ EL EQUIPO NO NECESITA ESA RAMAS  
 1. OTRO DATO QUE ES APARTE: EN SU EL PUSH SE USA PARA MANDAR AL REMOTO PERO SI QUIERES GUARDAR CAMBIO DE MANERA INTERNA CON EL cmmit basta
 
-
+(PARA SALIR DE CUALQUIERA Y QUE NO TE SIGA MOSTRANDO COMO POR EJEMPLO LUEGO DE HACER EL git log, mas commmits, simplemente pulsa la letra "q")
 */
 
-/*dssdad */
+/*CAMBIOS: Por si eres weon y te olvidas de algo y ya le hiciste commit pero no quieres hacerle otra vez commit si no editarlo
+1. git log: es para ver el historial de todos los commits o git log --oneline
+*/
