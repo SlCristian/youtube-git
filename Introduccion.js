@@ -121,11 +121,23 @@ AWAWA: SI TE PREGUNTAS PORQUE LA RAMA html y css tieneen el index.html ya que so
 //SI PIENSAS QUE LAS RAMAS SON SOLO PARA CREAR SUBDIVISIONES DE TRABAJO PSS TAMBIEN LUEGO DE REALIZAR PUEDES FUCIONAR LAS RAMAS, Y DIVIDIR TRABAJO OWO
 */
 
-/*FUSIONES: unir dos ramas. pARA HACER UNA FUSIONES NECESITAMOS
+/*FUSIONES:
+----FAST-FORWARD--------------------------------------
+unir dos ramas. pARA HACER UNA FUSIONES NECESITAMOS
 1. Situarnos en la rama que se quedara con el contenido fusionado
 2. Fusionar
 1. vas a la rama principal: git checkout rama-principal
 2. ejecutamos el comando merge con la rama secundaria a fusionar:
 Con merge git merge rama-secundaria
-(LUEGO DE LAS FUSIONES SI QUIERES PUEDES ELIMINAR LAS OTRAS RAMAS)
+(LUEGO DE LAS FUSIONES SI QUIERES PUEDES ELIMINAR LAS OTRAS RAMAS con git branch -d name y si quieres eliminar las ramas del repositorio o sea las remotas git push origin --delete name)
+
+
 */
+
+/*DATO IMPORTANTE DEL PORQUE TODAS LAS RAMAS QUE CREAS NO ES NECESARIO PONERLE EN REPOSITORIO YA QUE TALVEZ EL EQUIPO NO NECESITA ESA RAMAS  
+1. OTRO DATO QUE ES APARTE: EN SU EL PUSH SE USA PARA MANDAR AL REMOTO PERO SI QUIERES GUARDAR CAMBIO DE MANERA INTERNA CON EL cmmit basta
+
+
+*/
+
+/*dssdad */
