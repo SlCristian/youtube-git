@@ -143,9 +143,13 @@ La fusion hay que hacerla manual, para resolver conflictos de duplicacion de con
 */
 
 /*CAMBIOS: Por si eres weon y te olvidas de algo y ya le hiciste commit pero no quieres hacerle otra vez commit si no editarlo
+<<<<<<< HEAD
 (RECUERDA CTMR PUEDES USAR ESTOS COMMIT SIEMPRE Y CUANDO NO HALLAS HECHO PUSH PORQUE SI NO YA NO SE PUEDE Y TENDRAS PROBLEMAS DE CAMBIO)
 
 1. git log: es para ver el historial de todos los commits o git log --oneline
 2. git commit --amend --no-edit: sin editar el mensaje del último commit
 (cuando hay relaciones de conflictos o sea un merge o algo asi en medio, solo te dejara crear un nuevo commit y no actualizarlo , esto sucede porque ese commit ya se le hizo push, mas que todo estos commandos del amend sirva para commit antes de hacerle push CTMR)
+=======
+1. git log: es para ver el historial de todos los commits o git log --oneline
+>>>>>>> c68a814b3f12000644002919353796be6e9dbb6a
 */
