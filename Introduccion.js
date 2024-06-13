@@ -173,4 +173,12 @@ Cambiar a un commit en particular: git checkout id-commit
 2. git reset -soft: Borra lo que hay en el HEAD, recuerda el flujo basico ctmr, cuando ya esta en el HEAD/Local ahi recien puedes hacerle cambio a eso en caso no porque no estaria en la cabecezera,
 ademas luego de borrar luego de hacer el commit, todo eso del commit se mantendra en el area de preparacion (staged changes)
 3. git reset -mixed: borra el head y staging o sea despues de hacerle commit,borra ese commit y todo no lo manda al area de preparacion si no antes del staged changes(antes de hacer git add .) owo y pasa al working creo que se llama
- */
+*/
+
+/*Resetear un repositorio
+config pasarlo a otro y si haces eso ahora va a fallar
+git remote -v: si te preguntas porque hay tanto el fetch como el push pues uno es para subir(push) y otro es para hacer cambios remotos(pull) 
+*/
+
+
+/*ETIQUETAS EN GIT: nos permite asignar un numero de version de nuestro codigo o versionar nuestro codigo, ademas si creas una rama desde una etiqueta puedes trabajar en esa version especifca del codigo como si fuera una rama regular.Esto es muy útil cuando necesitas hacer correcciones o desarrollar nuevas características a partir de un punto específico en la historia del proyecto.*/
